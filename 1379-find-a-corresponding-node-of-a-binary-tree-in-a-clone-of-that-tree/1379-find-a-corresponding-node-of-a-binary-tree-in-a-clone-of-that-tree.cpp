@@ -34,10 +34,6 @@ public:
                 q1.push(f1->right);
                 q2.push(f2->right);
             }
-            if (f1->left && f2->left){
-                q1.push(f1->left);
-                q2.push(f2->left);
-            }
         }
     return 0;
     }
