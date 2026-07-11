@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yash-raka/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0965-univalued-binary-tree) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yash-raka/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0965-univalued-binary-tree) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yash-raka/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0965-univalued-binary-tree) |
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/yash-raka/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yash-raka/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
