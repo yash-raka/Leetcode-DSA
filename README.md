@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0875-koko-eating-bananas](https://github.com/yash-raka/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash-raka/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2460-apply-operations-to-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/yash-raka/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [2460-apply-operations-to-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/yash-raka/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [2460-apply-operations-to-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
