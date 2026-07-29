@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yash-raka/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yash-raka/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yash-raka/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Array
@@ -84,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/yash-raka/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
