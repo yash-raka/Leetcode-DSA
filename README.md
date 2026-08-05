@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0875-koko-eating-bananas](https://github.com/yash-raka/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+| [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash-raka/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2460-apply-operations-to-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
@@ -95,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
