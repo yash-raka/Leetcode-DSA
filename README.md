@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yash-raka/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0844-backspace-string-compare](https://github.com/yash-raka/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/yash-raka/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
