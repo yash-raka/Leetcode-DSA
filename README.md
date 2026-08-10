@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/yash-raka/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/yash-raka/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/yash-raka/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0844-backspace-string-compare](https://github.com/yash-raka/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/yash-raka/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
