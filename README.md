@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yash-raka/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/yash-raka/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/yash-raka/Leetcode-DSA/tree/master/1051-height-checker) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash-raka/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
 |  |
