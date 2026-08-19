@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash-raka/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3151-special-array-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3151-special-array-i) |
 ## Greedy
 |  |
@@ -130,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/yash-raka/Leetcode-DSA/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Counting
 |  |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
