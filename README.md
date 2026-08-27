@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yash-raka/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/yash-raka/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/yash-raka/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0965-univalued-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yash-raka/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yash-raka/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
