@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/yash-raka/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/yash-raka/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yash-raka/Leetcode-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
