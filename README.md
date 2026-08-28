@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash-raka/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/yash-raka/Leetcode-DSA/tree/master/0547-number-of-provinces) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yash-raka/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/yash-raka/Leetcode-DSA/tree/master/0547-number-of-provinces) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/yash-raka/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
@@ -192,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yash-raka/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
