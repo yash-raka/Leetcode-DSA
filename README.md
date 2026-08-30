@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yash-raka/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/yash-raka/Leetcode-DSA/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/yash-raka/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yash-raka/Leetcode-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/yash-raka/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yash-raka/Leetcode-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/yash-raka/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yash-raka/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -212,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yash-raka/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
