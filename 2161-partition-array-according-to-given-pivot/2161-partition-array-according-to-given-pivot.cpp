@@ -18,7 +18,6 @@ public:
                 arr.push_back(nums[i]);
             }
         }
-        nums = arr;
-    return nums;
+    return arr;
     }
 };
