@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3151-special-array-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3151-special-array-i) |
 | [3668-restore-finishing-order](https://github.com/yash-raka/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
+| [3925-concatenate-array-with-reverse](https://github.com/yash-raka/Leetcode-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/yash-raka/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yash-raka/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/yash-raka/Leetcode-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## String Matching
 |  |
 | ------- |
