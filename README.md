@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/yash-raka/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0844-backspace-string-compare](https://github.com/yash-raka/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [1108-defanging-an-ip-address](https://github.com/yash-raka/Leetcode-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yash-raka/Leetcode-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/yash-raka/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/yash-raka/Leetcode-DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
