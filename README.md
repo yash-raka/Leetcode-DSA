@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yash-raka/Leetcode-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/yash-raka/Leetcode-DSA/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yash-raka/Leetcode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Counting
