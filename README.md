@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/yash-raka/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/2769-find-the-maximum-achievable-number) |
