@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
+| [2769-find-the-maximum-achievable-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
