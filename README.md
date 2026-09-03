@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/yash-raka/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3151-special-array-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3151-special-array-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/yash-raka/Leetcode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/yash-raka/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/yash-raka/Leetcode-DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/yash-raka/Leetcode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yash-raka/Leetcode-DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/yash-raka/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yash-raka/Leetcode-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/yash-raka/Leetcode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/yash-raka/Leetcode-DSA/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yash-raka/Leetcode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
