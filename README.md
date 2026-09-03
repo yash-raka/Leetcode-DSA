@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/yash-raka/Leetcode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/yash-raka/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash-raka/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/yash-raka/Leetcode-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/yash-raka/Leetcode-DSA/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash-raka/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3731-find-missing-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yash-raka/Leetcode-DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/yash-raka/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
