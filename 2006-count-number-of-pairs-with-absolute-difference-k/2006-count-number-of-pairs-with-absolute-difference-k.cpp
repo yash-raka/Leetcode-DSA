@@ -5,8 +5,6 @@ public:
         for (int i=0;i<nums.size();i++){
             for (int j=i+1;j<nums.size();j++){
                 if ((abs(nums[i]-nums[j]) == k)){
-                    cout << nums[i] << " " << endl;
-                    cout << nums[j] << " " << endl; 
                     x++;
                 }
             }
