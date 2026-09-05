@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/yash-raka/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash-raka/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3861-minimum-capacity-box](https://github.com/yash-raka/Leetcode-DSA/tree/master/3861-minimum-capacity-box) |
 | [3925-concatenate-array-with-reverse](https://github.com/yash-raka/Leetcode-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yash-raka/Leetcode-DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/yash-raka/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
