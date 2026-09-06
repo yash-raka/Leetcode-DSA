@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yash-raka/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yash-raka/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/yash-raka/Leetcode-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/yash-raka/Leetcode-DSA/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/yash-raka/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2490-circular-sentence](https://github.com/yash-raka/Leetcode-DSA/tree/master/2490-circular-sentence) |
 | [2942-find-words-containing-character](https://github.com/yash-raka/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yash-raka/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
