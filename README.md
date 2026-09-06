@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/yash-raka/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Binary Search
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/yash-raka/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/yash-raka/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2490-circular-sentence](https://github.com/yash-raka/Leetcode-DSA/tree/master/2490-circular-sentence) |
 | [2942-find-words-containing-character](https://github.com/yash-raka/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/yash-raka/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
