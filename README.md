@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/yash-raka/Leetcode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/yash-raka/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/yash-raka/Leetcode-DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash-raka/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
