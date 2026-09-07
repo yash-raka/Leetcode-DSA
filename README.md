@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/yash-raka/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yash-raka/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yash-raka/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/yash-raka/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yash-raka/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
