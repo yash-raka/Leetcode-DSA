@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/yash-raka/Leetcode-DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yash-raka/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yash-raka/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/yash-raka/Leetcode-DSA/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/yash-raka/Leetcode-DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/yash-raka/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/yash-raka/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/yash-raka/Leetcode-DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/yash-raka/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/yash-raka/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/yash-raka/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/yash-raka/Leetcode-DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/yash-raka/Leetcode-DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
