@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yash-raka/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/yash-raka/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/yash-raka/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-raka/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/yash-raka/Leetcode-DSA/tree/master/1051-height-checker) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/yash-raka/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yash-raka/Leetcode-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/yash-raka/Leetcode-DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yash-raka/Leetcode-DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -280,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/yash-raka/Leetcode-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Trie
