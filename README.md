@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash-raka/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3861-minimum-capacity-box](https://github.com/yash-raka/Leetcode-DSA/tree/master/3861-minimum-capacity-box) |
+| [3895-count-digit-appearances](https://github.com/yash-raka/Leetcode-DSA/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/yash-raka/Leetcode-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash-raka/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yash-raka/Leetcode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3895-count-digit-appearances](https://github.com/yash-raka/Leetcode-DSA/tree/master/3895-count-digit-appearances) |
 ## Counting
 |  |
 | ------- |
