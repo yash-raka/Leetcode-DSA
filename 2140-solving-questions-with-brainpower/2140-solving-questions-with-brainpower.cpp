@@ -5,10 +5,9 @@ public:
         vector<long long> dp(n+1, 0);
         for (int i=n-1;i>=0;i--) {
             long long t = que[i][0];
-            int ni = i + que[i][1] + 1; 
-                if (ni < n) {
-                    t += dp[ni];
-                }
+              if ((i+que[i][1]+1) < n) {
+                t += dp[i+que[i][1]+1];
+            }
             long long nt = dp[i+1];
             dp[i] = max(t, nt);
         }
