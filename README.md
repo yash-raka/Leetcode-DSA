@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yash-raka/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yash-raka/Leetcode-DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2140-solving-questions-with-brainpower](https://github.com/yash-raka/Leetcode-DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yash-raka/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yash-raka/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yash-raka/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yash-raka/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+| [2140-solving-questions-with-brainpower](https://github.com/yash-raka/Leetcode-DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Counting Sort
 |  |
