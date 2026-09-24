@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/yash-raka/Leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/yash-raka/Leetcode-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-raka/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/yash-raka/Leetcode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/yash-raka/Leetcode-DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2418-sort-the-people](https://github.com/yash-raka/Leetcode-DSA/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/yash-raka/Leetcode-DSA/tree/master/2490-circular-sentence) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/yash-raka/Leetcode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/yash-raka/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/yash-raka/Leetcode-DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/yash-raka/Leetcode-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## String Matching
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/yash-raka/Leetcode-DSA/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/yash-raka/Leetcode-DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/yash-raka/Leetcode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
