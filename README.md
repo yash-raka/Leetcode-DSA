@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-raka/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yash-raka/Leetcode-DSA/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/yash-raka/Leetcode-DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/yash-raka/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/yash-raka/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/yash-raka/Leetcode-DSA/tree/master/1051-height-checker) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/yash-raka/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/yash-raka/Leetcode-DSA/tree/master/0860-lemonade-change) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yash-raka/Leetcode-DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/yash-raka/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
