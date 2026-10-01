@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/yash-raka/Leetcode-DSA/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/yash-raka/Leetcode-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/yash-raka/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/yash-raka/Leetcode-DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/yash-raka/Leetcode-DSA/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yash-raka/Leetcode-DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/yash-raka/Leetcode-DSA/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/yash-raka/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
