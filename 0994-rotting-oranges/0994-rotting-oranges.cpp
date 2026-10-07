@@ -1,71 +1,50 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int r = grid.size();
-        int c = grid[0].size();
-        
+        int n = grid.size();
+        int m = grid[0].size();
         queue<pair<int, int>> q;
+        
         int fresh = 0;
-
-        for (int i=0;i<r;i++){
-            for (int j=0;j<c;j++){
+        for (int i=0;i<n;i++){
+            for (int j=0;j<m;j++){
                 if (grid[i][j] == 2){
-                    q.push({i, j});
+                    q.push({i,j});
                 } else if (grid[i][j] == 1){
                     fresh++;
                 }
             }
         }
 
-        if (fresh == 0){
-            return 0;
-        }
-
-        int ans=0;
-        while(!q.empty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                int x = q.front().first;
-                int y = q.front().second;
+        int dr[] = {-1, 1, 0, 0};
+        int dc[] = {0, 0, -1, 1};
+        int time = 0;
+        
+        while (!q.empty()){
+            int x = q.size();
+            for (int i=0;i<x;i++){
+                int n1 = q.front().first;
+                int n2 = q.front().second;
                 q.pop();
 
-                if ( x-1 >= 0){
-                    if (grid[x-1][y] == 1){
-                        grid[x-1][y] = 2;
-                        fresh--;
-                        q.push({x-1,y});
-                    }
-                }
+                for (int i=0;i<4;i++){
+                    int a = n1 + dr[i];
+                    int b = n2 + dc[i];
 
-                if (x+1 < r){
-                    if (grid[x+1][y] == 1){
-                        grid[x+1][y] = 2;
+                    if (a >= 0 && a < n && b >= 0 && b < m && grid[a][b] == 1){
+                        grid[a][b] = 2;
                         fresh--;
-                        q.push({x+1,y});
+                        q.push({a, b});
                     }
                 }
-                if (y-1 >= 0){
-                    if (grid[x][y-1] == 1){
-                        grid[x][y-1] = 2;
-                        fresh--;
-                        q.push({x, y-1});
-                    }
-                }
-                if (y+1 < c){
-                    if (grid[x][y+1] == 1){
-                        grid[x][y+1] = 2;
-                        fresh--;
-                        q.push({x,y+1});
-                    }
-                } 
             }
-            ans++;
+            if (!q.empty()){
+                time++;
+            }
         }
-
         if (fresh == 0){
-            return ans-1;
-        } else {
-            return -1;
-        }        
+            return time;
+        }
+    return -1;
     }
 };
