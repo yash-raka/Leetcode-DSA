@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/yash-raka/Leetcode-DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/yash-raka/Leetcode-DSA/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yash-raka/Leetcode-DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash-raka/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/yash-raka/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/yash-raka/Leetcode-DSA/tree/master/0860-lemonade-change) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yash-raka/Leetcode-DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash-raka/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/yash-raka/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yash-raka/Leetcode-DSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yash-raka/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/yash-raka/Leetcode-DSA/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash-raka/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash-raka/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2363-merge-similar-items](https://github.com/yash-raka/Leetcode-DSA/tree/master/2363-merge-similar-items) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/yash-raka/Leetcode-DSA/tree/master/1051-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/yash-raka/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Bubble Sort
 |  |
 | ------- |
