@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/yash-raka/Leetcode-DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2363-merge-similar-items](https://github.com/yash-raka/Leetcode-DSA/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/yash-raka/Leetcode-DSA/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/yash-raka/Leetcode-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash-raka/Leetcode-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2363-merge-similar-items](https://github.com/yash-raka/Leetcode-DSA/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/yash-raka/Leetcode-DSA/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/yash-raka/Leetcode-DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yash-raka/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/yash-raka/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2363-merge-similar-items](https://github.com/yash-raka/Leetcode-DSA/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/yash-raka/Leetcode-DSA/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/yash-raka/Leetcode-DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yash-raka/Leetcode-DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -421,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/yash-raka/Leetcode-DSA/tree/master/0584-find-customer-referee) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/yash-raka/Leetcode-DSA/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
