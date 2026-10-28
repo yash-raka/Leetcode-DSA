@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yash-raka/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/yash-raka/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/yash-raka/Leetcode-DSA/tree/master/0605-can-place-flowers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yash-raka/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/yash-raka/Leetcode-DSA/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yash-raka/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yash-raka/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-raka/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yash-raka/Leetcode-DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/yash-raka/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yash-raka/Leetcode-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
